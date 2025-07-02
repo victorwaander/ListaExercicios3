@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(143, 124, 124);
+    margin: 0;
+    font-family: 'Arial';
+}
+
+header {
+    background-color: #3b5998;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+main {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+footer {
+    background-color: #222;
+    color: yellow;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+
+/* Estilo para todas as tags <h2> */
+
+h2 {
+    font-size: 2rem;
+    text-decoration: underline;
+}
+
+.destaque {
+    font-style: italic;
+    background-color: rgba(255, 255, 0, 0.2);
+    padding: 5px;
+}
+
+#importante {
+    border-top: 5px solid red;
+    padding-top: 10px;
+    margin-top: 20px;
+}
